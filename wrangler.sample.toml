@@ -1,0 +1,9 @@
+name = "random-takagi-blog"
+main = "src/index.ts"
+compatibility_date = "2022-12-29"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "random-blog-db"
+database_id = ""
+preview_database_id = ""
